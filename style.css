@@ -1,0 +1,28 @@
+body {
+  background-color: #F9FAFC;
+}
+
+img {
+  background-color: #ffffff;
+  box-shadow: 60px -16px rgb(128, 0, 107);
+  padding:10px;
+  border-radius:5px;
+}
+
+.container {
+  background-color: #f5d9ff;
+  max-width:800px;
+  border-radius:2rem;
+}
+
+.container {
+  padding-top: 7.5rem;
+}
+
+.converted-value {
+  color: #452B4E;
+}
+
+.conversion-precision {
+  color: #452B4E;
+}
